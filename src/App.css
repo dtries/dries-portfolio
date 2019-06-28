@@ -1,3 +1,60 @@
+/* Color Theme 1 Swatches in Hex */
+.Cold-North-1-hex { color: #730220; }
+.Cold-North-2-hex { color: #8C1843; }
+.Cold-North-3-hex { color: #C7D4D9; }
+.Cold-North-4-hex { color: #46736B; }
+.Cold-North-5-hex { color: #F2EA77; }
+
+/* Color Theme 2 Swatches in Hex */
+.Bright-abstract-background-1-hex { color: #D9043D; }
+.Bright-abstract-background-2-hex { color: #033E8C; }
+.Bright-abstract-background-3-hex { color: #F2B705; }
+.Bright-abstract-background-4-hex { color: #F28705; }
+.Bright-abstract-background-5-hex { color: #D90404; }
+
+/* Color Theme 3 Swatches in Hex */
+.Colorful-ink-in-water-1-hex { color: #085A8C; }
+.Colorful-ink-in-water-2-hex { color: #F2CD13; }
+.Colorful-ink-in-water-3-hex { color: #D97D0D; }
+.Colorful-ink-in-water-4-hex { color: #D94B18; }
+.Colorful-ink-in-water-5-hex { color: #F2F2F2; }
+
+
+/* Color Theme 4 Swatches in Hex */
+.Explosion-of-rainbow-color-powder-on-white-background-1-hex { color: #F2059F; }
+.Explosion-of-rainbow-color-powder-on-white-background-2-hex { color: #BF04A0; }
+.Explosion-of-rainbow-color-powder-on-white-background-3-hex { color: #0477BF; }
+.Explosion-of-rainbow-color-powder-on-white-background-4-hex { color: #F2B705; }
+.Explosion-of-rainbow-color-powder-on-white-background-5-hex { color: #F2F2F2; }
+
+/* Color Theme 5 in Hex */
+.Stockholm-1-hex { color: #154EBF; }
+.Stockholm-2-hex { color: #2165BF; }
+.Stockholm-3-hex { color: #24BF93; }
+.Stockholm-4-hex { color: #F28C0F; }
+.Stockholm-5-hex { color: #D90B0B; }
+
+/* Color Theme 6 Swatches in Hex */
+.Life-is-better-with-music-1-hex { color: #253659; }
+.Life-is-better-with-music-2-hex { color: #84BFBF; }
+.Life-is-better-with-music-3-hex { color: #208C6E; }
+.Life-is-better-with-music-4-hex { color: #F2C641; }
+.Life-is-better-with-music-5-hex { color: #D94A4A; }
+
+/* Color Theme 7 Swatches in Hex */
+.Kids-footwear-1-hex { color: #D90B42; }
+.Kids-footwear-2-hex { color: #8C0883; }
+.Kids-footwear-3-hex { color: #078C36; }
+.Kids-footwear-4-hex { color: #F2B90F; }
+.Kids-footwear-5-hex { color: #F26A1B; }
+
+/* Color Theme 8 in RBGA */
+.LV-rbga-1 { color: rgba(255, 255, 255, 1); }
+.LV-rbga-2 { color: rgba(19, 82, 162, 1); }
+.LV-rbga-3 { color: rgba(255, 212, 100, 1); }
+.LV-rbga-4 { color: rgba(242, 105, 100, 1); }
+.LV-rbga-5 { color: rgba(51, 51, 50, 1); }
+
 .App {
   text-align: center;
 }
@@ -31,3 +88,309 @@
     transform: rotate(360deg);
   }
 }
+
+/* Color Scheme 1 */
+.r1 {
+  word-wrap: break-word;
+}
+
+#r1c1 {
+  background-color: #730220;
+  color: white;
+  height: 100px;
+}
+
+#r1c2 {
+  background-color: #8C1843;
+  color: white;
+  height: 100px;
+}
+
+#r1c3 {
+  background-color: #C7D4D9;
+  color: black;
+  height: 100px;
+}
+
+#r1c4 {
+  background-color: #46736B;
+  color: white;
+  height: 100px;
+}
+
+#r1c5 {
+  background-color: #F2EA77;
+  color: black;
+  height: 100px;
+}
+
+/* Color Scheme 2 */
+.r2 {
+  word-wrap: break-word;
+}
+
+#r2c1 {
+  background-color: #D9043D;
+  color: white;
+  height: 100px;
+}
+
+#r2c2 {
+  background-color: #033E8C;
+  color: white;
+  height: 100px;
+}
+
+#r2c3 {
+  background-color: #F2B705;
+  color: white;
+  height: 100px;
+}
+
+#r2c4 {
+  background-color: #F28705;
+  color: white;
+  height: 100px;
+}
+
+#r2c5 {
+  background-color: #D90404;
+  color: white;
+  height: 100px;
+}
+
+/* Color Scheme 3 */
+.r3 {
+  word-wrap: break-word;
+}
+
+#r3c1 {
+  background-color: #085A8C;
+  color: white;
+  height: 100px;
+}
+
+#r3c2 {
+  background-color: #F2CD13;
+  color: white;
+  height: 100px;
+}
+
+#r3c3 {
+  background-color: #D97D0D;
+  color: white;
+  height: 100px;
+}
+
+#r3c4 {
+  background-color: #D94B18;
+  color: white;
+  height: 100px;
+}
+
+#r3c5 {
+  background-color: #F2F2F2;
+  color: black;
+  height: 100px;
+}
+
+/* Color Scheme 4 */
+.r4 {
+  word-wrap: break-word;
+}
+
+#r4c1 {
+  background-color: #F2059F;
+  color: white;
+  height: 100px;
+}
+
+#r4c2 {
+  background-color: #BF04A0;
+  color: white;
+  height: 100px;
+}
+
+#r4c3 {
+  background-color: #0477BF;
+  color: white;
+  height: 100px;
+}
+
+#r4c4 {
+  background-color: #F2B705;
+  color: white;
+  height: 100px;
+}
+
+#r4c5 {
+  background-color: #F2F2F2;
+  color: black;
+  height: 100px;
+}
+
+/* Color Scheme 5 */
+.r5 {
+  word-wrap: break-word;
+}
+
+#r5c1 {
+  background-color: #154EBF;
+  color: white;
+  height: 100px;
+}
+
+#r5c2 {
+  background-color: #2165BF;
+  color: white;
+  height: 100px;
+}
+
+#r5c3 {
+  background-color: #24BF93;
+  color: black;
+  height: 100px;
+}
+
+#r5c4 {
+  background-color: #F28C0F;
+  color: white;
+  height: 100px;
+}
+
+#r5c5 {
+  background-color: #D90B0B;
+  color: white;
+  height: 100px;
+}
+
+/* Color Scheme 6 */
+.r6 {
+  word-wrap: break-word;
+}
+
+#r6c1 {
+  background-color: #253659;
+  color: white;
+  height: 100px;
+}
+
+#r6c2 {
+  background-color: #84BFBF;
+  color: white;
+  height: 100px;
+}
+
+#r6c3 {
+  background-color: #208C6E;
+  color: white;
+  height: 100px;
+}
+
+#r6c4 {
+  background-color: #F2C641;
+  color: white;
+  height: 100px;
+}
+
+#r6c5 {
+  background-color: #D94A4A;
+  color: white;
+  height: 100px;
+}
+
+/* Color Scheme 7 */
+.r7 {
+  word-wrap: break-word;
+}
+#r7c1 {
+  background-color: #D90B42;
+  color: white;
+  height: 100px;
+}
+
+#r7c2 {
+  background-color: #8C0883;
+  color: white;
+  height: 100px;
+}
+
+#r7c3 {
+  background-color: #078C36;
+  color: white;
+  height: 100px;
+}
+
+#r7c4 {
+  background-color: #F2B90F;
+  color: white;
+  height: 100px;
+}
+
+#r7c5 {
+  background-color: #F26A1B;
+  color: black;
+  height: 100px;
+}
+
+/* Color Scheme 8 */
+
+.r8 {
+  word-wrap: break-word;
+}
+
+#r8c1 {
+  background-color: rgba(255, 255, 255, 1);
+  color: black;
+  height: 100px;
+  border-top: black 1px solid;
+  border-left: black 1px solid;
+  border-bottom: black 1px solid;
+}
+
+#r8c2 {
+  background-color: rgba(19, 82, 162, 1);
+  color: white;
+  height: 100px;
+}
+
+#r8c3 {
+  background-color: rgba(255, 212, 100, 1);
+  color: black;
+  height: 100px;
+}
+
+#r8c4 {
+  background-color: rgba(242, 105, 100, 1);
+  color: white;
+  height: 100px;
+}
+
+#r8c5 {
+  background-color: rgba(51, 51, 50, 1);
+  color: white;
+  height: 100px;
+}
+
+ /* ==== Extra-Small devices ==== */
+ @media only screen and (max-width: 600px) {
+
+  .row {font-size: 90%;
+  }
+
+  #r1c0,
+  #r2c0,
+  #r3c0,
+  #r4c0,
+  #r5c0,
+  #r6c0,
+  #r7c0,
+  #r8c0  {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+  }
+
+ }
+
+
+
